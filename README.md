@@ -1,3 +1,3 @@
-## [leetcode-explore](https://leetcode-cn.com/explore/)
+# This a the LeetCode LeetCode
 
-项目文件夹以地址栏来命名
+https://leetcode.cn/leetbook/
